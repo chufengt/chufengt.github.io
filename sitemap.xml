@@ -27,12 +27,30 @@
   </url>
   
   <url>
+    <loc>/tags/computer-vision/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/pedestrian-attribute/</loc>
     <lastmod>2019-10-10T23:43:23+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/lu-sheng/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pedestrian-attribute-recognition/</loc>
     <lastmod>2019-10-10T23:43:23+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -46,6 +64,12 @@
   <url>
     <loc>/publication/</loc>
     <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -75,11 +99,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
