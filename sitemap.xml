@@ -3,12 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chufeng-tang/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/pedestrian-attribute/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lu-sheng/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaolin-hu/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhaoxiang-zhang/</loc>
+    <lastmod>2019-10-10T23:43:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -17,21 +70,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>
