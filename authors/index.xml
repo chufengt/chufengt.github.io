@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Chufeng Tang</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Chufeng Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Chufeng Tang</copyright>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently a second-year Ph.D. student in the &lt;a href=&#34;http://www.cs.tsinghua.edu.cn/publish/cs/index.html&#34;&gt;Department of Computer Science and Technology&lt;/a&gt;, &lt;a href=&#34;https://www.tsinghua.edu.cn/publish/thu2018en/index.html&#34;&gt;Tsinghua University&lt;/a&gt;, advised by &lt;a href=&#34;http://www.xlhu.cn/&#34;&gt;Prof. Xiaolin Hu&lt;/a&gt;. I received the B.E. degree from the Department of Computer Science and Technology, Huazhong University of Science and Technology in 2018.
+I was a research intern from August, 2017 to July, 2018 at &lt;a href=&#34;https://www.sensetime.com/&#34;&gt;SenseTime&lt;/a&gt;, working with &lt;a href=&#34;https://amandajshao.github.io/&#34;&gt;Dr. Jing Shao&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research interest includes deep learning and computer vision. I was also interested in developing more effective and robust AI models based on findings in neuroscience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[**Chufeng Tang**](https://chufengt.github.io)</title>
+      <link>/authors/chufeng-tanghttps/chufengt.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chufeng-tanghttps/chufengt.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Lu Sheng](https://lucassheng.github.io)</title>
+      <link>/authors/lu-shenghttps/lucassheng.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lu-shenghttps/lucassheng.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Xiaolin Hu](http://xlhu.cn)&lt;sup&gt;*</title>
+      <link>/authors/xiaolin-huhttp/xlhu.cnsup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaolin-huhttp/xlhu.cnsup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Zhaoxiang Zhang](https://zhaoxiangzhang.net/)</title>
+      <link>/authors/zhaoxiang-zhanghttps/zhaoxiangzhang.net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zhaoxiang-zhanghttps/zhaoxiangzhang.net/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
