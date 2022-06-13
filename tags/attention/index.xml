@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attention on Chufeng Tang (唐楚峰)</title>
+    <link>/tags/attention/</link>
+    <description>Recent content in Attention on Chufeng Tang (唐楚峰)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Chufeng Tang</copyright>
+    <lastBuildDate>Fri, 01 Nov 2019 23:43:23 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/attention/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving Pedestrian Attribute Recognition With Weakly-Supervised Multi-Scale Attribute-Specific Localization</title>
+      <link>/publication/iccv19-pedestrian-attribute/</link>
+      <pubDate>Fri, 01 Nov 2019 23:43:23 +0800</pubDate>
+      
+      <guid>/publication/iccv19-pedestrian-attribute/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

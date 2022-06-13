@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Chufeng Tang</title>
+    <title>Authors on Chufeng Tang (唐楚峰)</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Chufeng Tang</description>
+    <description>Recent content in Authors on Chufeng Tang (唐楚峰)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Chufeng Tang</copyright>
@@ -17,9 +17,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently a second-year Ph.D. student in the &lt;a href=&#34;http://www.cs.tsinghua.edu.cn/publish/cs/index.html&#34;&gt;Department of Computer Science and Technology&lt;/a&gt;, &lt;a href=&#34;https://www.tsinghua.edu.cn/publish/thu2018en/index.html&#34;&gt;Tsinghua University&lt;/a&gt;, advised by &lt;a href=&#34;http://www.xlhu.cn/&#34;&gt;Prof. Xiaolin Hu&lt;/a&gt;. I received the B.E. degree from the Department of Computer Science and Technology, Huazhong University of Science and Technology in 2018.
-I was a research intern from August, 2017 to July, 2018 at &lt;a href=&#34;https://www.sensetime.com/&#34;&gt;SenseTime&lt;/a&gt;, working with &lt;a href=&#34;https://amandajshao.github.io/&#34;&gt;Dr. Jing Shao&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research interest includes deep learning and computer vision. I was also interested in developing more effective and robust AI models based on findings in neuroscience.&lt;/p&gt;
+      <description>&lt;p&gt;I am a fourth-year Ph.D. student in the &lt;a href=&#34;https://www.cs.tsinghua.edu.cn/csen/&#34;&gt;Department of Computer Science and Technology&lt;/a&gt;, &lt;a href=&#34;https://www.tsinghua.edu.cn/en/&#34;&gt;Tsinghua University&lt;/a&gt;, advised by &lt;a href=&#34;http://www.xlhu.cn/&#34;&gt;Prof. Xiaolin Hu&lt;/a&gt;. I am also a member of &lt;a href=&#34;https://ml.cs.tsinghua.edu.cn/people.html&#34;&gt;TSAIL Group&lt;/a&gt; directed by &lt;a href=&#34;https://www.cs.tsinghua.edu.cn/info/1121/3552.htm&#34;&gt;Prof. Bo Zhang&lt;/a&gt; and &lt;a href=&#34;https://ml.cs.tsinghua.edu.cn/~jun/index.shtml&#34;&gt;Prof. Jun Zhu&lt;/a&gt;.
+Before that, I received my B.E. degree from the &lt;a href=&#34;http://english.cs.hust.edu.cn/&#34;&gt;School of Computer Science and Technology&lt;/a&gt;, &lt;a href=&#34;http://english.hust.edu.cn/&#34;&gt;Huazhong University of Science and Technology&lt;/a&gt; in 2018.&lt;/p&gt;
+&lt;p&gt;I am a research intern at &lt;a href=&#34;https://www.huawei.com/en/&#34;&gt;Huawei Inc.&lt;/a&gt;, starting from September, 2020, advised by &lt;a href=&#34;https://scholar.google.com/citations?user=61b6eYkAAAAJ&#34;&gt;Prof. Qi Tian&lt;/a&gt; and &lt;a href=&#34;http://lingxixie.com/Home.html&#34;&gt;Dr. Lingxi Xie&lt;/a&gt;.
+I was a research intern from August, 2017 to July, 2018 at &lt;a href=&#34;https://www.sensetime.com/en&#34;&gt;SenseTime Inc.&lt;/a&gt;, advised by &lt;a href=&#34;https://amandajshao.github.io/&#34;&gt;Dr. Jing Shao&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research interests primarily lie in deep learning and computer vision. Recently, I am working on instance-level detection/segmentation, language-driven visual recognition, AI for (biomedical) science, etc.&lt;/p&gt;
 </description>
     </item>
     
@@ -33,6 +35,33 @@ I was a research intern from August, 2017 to July, 2018 at &lt;a href=&#34;https
     </item>
     
     <item>
+      <title>[**Chufeng Tang&lt;sup&gt;*&lt;/sup&gt;**](https://chufengt.github.io)</title>
+      <link>/authors/chufeng-tangsup/suphttps/chufengt.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chufeng-tangsup/suphttps/chufengt.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Hang Chen&lt;sup&gt;*&lt;/sup&gt;](https://scholar.google.com/citations?user=WZbgD9oAAAAJ&amp;hl=en)</title>
+      <link>/authors/hang-chensup/suphttps/scholar.google.com/citationsuserwzbgd9oaaaajhlen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hang-chensup/suphttps/scholar.google.com/citationsuserwzbgd9oaaaajhlen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Jianmin Li](https://scholar.google.com/citations?user=PeF1aPkAAAAJ&amp;hl=en)</title>
+      <link>/authors/jianmin-lihttps/scholar.google.com/citationsuserpef1apkaaaajhlen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jianmin-lihttps/scholar.google.com/citationsuserpef1apkaaaajhlen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[Lu Sheng](https://lucassheng.github.io)</title>
       <link>/authors/lu-shenghttps/lucassheng.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -42,11 +71,20 @@ I was a research intern from August, 2017 to July, 2018 at &lt;a href=&#34;https
     </item>
     
     <item>
-      <title>[Xiaolin Hu](http://xlhu.cn)&lt;sup&gt;*</title>
-      <link>/authors/xiaolin-huhttp/xlhu.cnsup/</link>
+      <title>[Xiao Li](https://scholar.google.com/citations?user=Is24dqwAAAAJ&amp;hl=en)</title>
+      <link>/authors/xiao-lihttps/scholar.google.com/citationsuseris24dqwaaaajhlen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/xiaolin-huhttp/xlhu.cnsup/</guid>
+      <guid>/authors/xiao-lihttps/scholar.google.com/citationsuseris24dqwaaaajhlen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Xiaolin Hu](http://xlhu.cn)&lt;sup&gt;&amp;Dagger;&lt;/sup&gt;</title>
+      <link>/authors/xiaolin-huhttp/xlhu.cnsupdagger/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaolin-huhttp/xlhu.cnsupdagger/sup/</guid>
       <description></description>
     </item>
     

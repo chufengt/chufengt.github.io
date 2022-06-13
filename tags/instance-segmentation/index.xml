@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instance Segmentation on Chufeng Tang (唐楚峰)</title>
+    <link>/tags/instance-segmentation/</link>
+    <description>Recent content in Instance Segmentation on Chufeng Tang (唐楚峰)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Chufeng Tang</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 23:43:23 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/instance-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation</title>
+      <link>/publication/cvpr21-boundary-refinement/</link>
+      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      
+      <guid>/publication/cvpr21-boundary-refinement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

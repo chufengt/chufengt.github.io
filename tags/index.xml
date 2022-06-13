@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Chufeng Tang</title>
+    <title>Tags on Chufeng Tang (唐楚峰)</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Chufeng Tang</description>
+    <description>Recent content in Tags on Chufeng Tang (唐楚峰)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Chufeng Tang</copyright>
-    <lastBuildDate>Thu, 10 Oct 2019 23:43:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 23:43:23 +0800</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Boundary Refinement</title>
+      <link>/tags/boundary-refinement/</link>
+      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/boundary-refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer Vision</title>
       <link>/tags/computer-vision/</link>
-      <pubDate>Thu, 10 Oct 2019 23:43:23 +0800</pubDate>
+      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
       
       <guid>/tags/computer-vision/</guid>
       <description></description>
@@ -24,18 +33,45 @@
     <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Thu, 10 Oct 2019 23:43:23 +0800</pubDate>
+      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Instance Segmentation</title>
+      <link>/tags/instance-segmentation/</link>
+      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/instance-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>/tags/attention/</link>
+      <pubDate>Fri, 01 Nov 2019 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pedestrian Attribute Recognition</title>
       <link>/tags/pedestrian-attribute-recognition/</link>
-      <pubDate>Thu, 10 Oct 2019 23:43:23 +0800</pubDate>
+      <pubDate>Fri, 01 Nov 2019 23:43:23 +0800</pubDate>
       
       <guid>/tags/pedestrian-attribute-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly-Supervised Localization</title>
+      <link>/tags/weakly-supervised-localization/</link>
+      <pubDate>Fri, 01 Nov 2019 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/weakly-supervised-localization/</guid>
       <description></description>
     </item>
     
