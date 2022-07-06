@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Chufeng Tang</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 23:43:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jul 2022 23:43:23 +0800</lastBuildDate>
     
 	    <atom:link href="/tags/boundary-refinement/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving Image Segmentation with Boundary Patch Refinement</title>
+      <link>/publication/ijcv-boundary-refinement/</link>
+      <pubDate>Mon, 04 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/publication/ijcv-boundary-refinement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation</title>

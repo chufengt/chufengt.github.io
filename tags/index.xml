@@ -7,24 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Chufeng Tang</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 23:43:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 23:43:23 +0800</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Boundary Refinement</title>
-      <link>/tags/boundary-refinement/</link>
-      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      <title>Annotation Protocol</title>
+      <link>/tags/annotation-protocol/</link>
+      <pubDate>Tue, 05 Jul 2022 23:43:23 +0800</pubDate>
       
-      <guid>/tags/boundary-refinement/</guid>
+      <guid>/tags/annotation-protocol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision</title>
       <link>/tags/computer-vision/</link>
-      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      <pubDate>Tue, 05 Jul 2022 23:43:23 +0800</pubDate>
       
       <guid>/tags/computer-vision/</guid>
       <description></description>
@@ -33,18 +33,72 @@
     <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      <pubDate>Tue, 05 Jul 2022 23:43:23 +0800</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Open Domain</title>
+      <link>/tags/open-domain/</link>
+      <pubDate>Tue, 05 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/open-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>/tags/segmentation/</link>
+      <pubDate>Tue, 05 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary Refinement</title>
+      <link>/tags/boundary-refinement/</link>
+      <pubDate>Mon, 04 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/boundary-refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Segmentation</title>
+      <link>/tags/image-segmentation/</link>
+      <pubDate>Mon, 04 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning</title>
+      <link>/tags/active-learning/</link>
+      <pubDate>Sun, 03 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/active-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Instance Segmentation</title>
       <link>/tags/instance-segmentation/</link>
-      <pubDate>Tue, 01 Jun 2021 23:43:23 +0800</pubDate>
+      <pubDate>Sun, 03 Jul 2022 23:43:23 +0800</pubDate>
       
       <guid>/tags/instance-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly-Supervised Learning</title>
+      <link>/tags/weakly-supervised-learning/</link>
+      <pubDate>Sun, 03 Jul 2022 23:43:23 +0800</pubDate>
+      
+      <guid>/tags/weakly-supervised-learning/</guid>
       <description></description>
     </item>
     

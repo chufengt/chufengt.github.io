@@ -2,34 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
-    <loc>/tags/boundary-refinement/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <loc>/tags/annotation-protocol/</loc>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/tags/computer-vision/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
-    <loc>/tags/instance-segmentation/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
-  </url><url>
-    <loc>/publication/cvpr21-boundary-refinement/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <loc>/tags/open-domain/</loc>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2021-06-01T23:43:23+08:00</lastmod>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/tags/segmentation/</loc>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/publication/visual-recognition-by-request/</loc>
+    <lastmod>2022-07-05T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/tags/boundary-refinement/</loc>
+    <lastmod>2022-07-04T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/tags/image-segmentation/</loc>
+    <lastmod>2022-07-04T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/publication/ijcv-boundary-refinement/</loc>
+    <lastmod>2022-07-04T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2022-07-03T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/tags/active-learning/</loc>
+    <lastmod>2022-07-03T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/publication/eccv22-apis/</loc>
+    <lastmod>2022-07-03T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/tags/instance-segmentation/</loc>
+    <lastmod>2022-07-03T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/tags/weakly-supervised-learning/</loc>
+    <lastmod>2022-07-03T23:43:23+08:00</lastmod>
+  </url><url>
+    <loc>/publication/cvpr21-boundary-refinement/</loc>
     <lastmod>2021-06-01T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/tags/attention/</loc>
@@ -50,15 +80,27 @@
   </url><url>
     <loc>/authors/chufeng-tangsup/suphttps/chufengt.github.io/</loc>
   </url><url>
+    <loc>/authors/gang-zhanghttps/scholar.google.com.hk/citationsuser0qvcf6saaaajhlen/</loc>
+  </url><url>
+    <loc>/authors/hang-chenhttps/scholar.google.com/citationsuserwzbgd9oaaaajhlen/</loc>
+  </url><url>
     <loc>/authors/hang-chensup/suphttps/scholar.google.com/citationsuserwzbgd9oaaaajhlen/</loc>
   </url><url>
     <loc>/authors/jianmin-lihttps/scholar.google.com/citationsuserpef1apkaaaajhlen/</loc>
   </url><url>
+    <loc>/authors/lingxi-xiehttp/lingxixie.com/home.html/</loc>
+  </url><url>
     <loc>/authors/lu-shenghttps/lucassheng.github.io/</loc>
+  </url><url>
+    <loc>/authors/qi-tianhttps/scholar.google.com/citationsuser61b6eykaaaajhlen/</loc>
   </url><url>
     <loc>/authors/xiao-lihttps/scholar.google.com/citationsuseris24dqwaaaajhlen/</loc>
   </url><url>
+    <loc>/authors/xiaolin-huhttp/xlhu.cn/</loc>
+  </url><url>
     <loc>/authors/xiaolin-huhttp/xlhu.cnsupdagger/sup/</loc>
+  </url><url>
+    <loc>/authors/xiaopeng-zhanghttps/sites.google.com/site/zxphistory/</loc>
   </url><url>
     <loc>/authors/zhaoxiang-zhanghttps/zhaoxiangzhang.net/</loc>
   </url><url>
