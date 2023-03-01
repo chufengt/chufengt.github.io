@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/publication_types/1/</loc>
     <lastmod>2022-07-05T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/tags/annotation-protocol/</loc>
@@ -46,9 +46,6 @@
   </url><url>
     <loc>/publication/ijcv-boundary-refinement/</loc>
     <lastmod>2022-07-04T23:43:23+08:00</lastmod>
-  </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2022-07-03T23:43:23+08:00</lastmod>
   </url><url>
     <loc>/tags/active-learning/</loc>
     <lastmod>2022-07-03T23:43:23+08:00</lastmod>
